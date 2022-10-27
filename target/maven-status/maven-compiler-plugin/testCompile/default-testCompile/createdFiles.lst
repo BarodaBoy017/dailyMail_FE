@@ -1,0 +1,4 @@
+uk\co\dailymail\Hooks.class
+uk\co\dailymail\runner\TestRunnerFailed.class
+uk\co\dailymail\steps\MyStepdefs.class
+uk\co\dailymail\runner\TestRunner.class
